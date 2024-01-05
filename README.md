@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Konnen123
+- 👋 Hi, I’m Stefan Doaga
 - 🌱 I’m currently learning at Faculty of Computer Science, Alexandru Ioan Cuza University of Iasi
 - 📫 How to reach me : https://www.linkedin.com/in/stefan-doaga-997780217/
 
