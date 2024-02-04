@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 - 🌱 I’m currently learning **Rust**
 
-- 🏛️ I’m a student at Faculty of Computer Science, Alexandru Ioan Cuza
+ 🏛️ I’m a student at Faculty of Computer Science, Alexandru Ioan Cuza
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
