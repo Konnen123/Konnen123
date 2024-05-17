@@ -2,7 +2,7 @@
 
 - 🏛️ I’m a student at Faculty of Computer Science, Alexandru Ioan Cuza
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
