@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 
-- 🏛️ I’m a student at Faculty of Computer Science, Alexandru Ioan Cuza
-
+- 🏛️ I’m a .NET Software Engineer
+- 📜 B.S in Computer Science from University of Alexandru Ioan Cuza - Iași
 - 🌱 I’m currently learning **AWS**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,8 +22,8 @@
 </p>
 <h3 align="left">Tools and Frameworks: </h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png?20230616230349" alt="springboot" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt=".net" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png?20230616230349" alt="springboot" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/> 
